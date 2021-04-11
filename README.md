@@ -23,8 +23,13 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Tecnologias Utilizadas / Tecnologies :
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+[NodeJS](https://nodejs.org/en/) is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+[MongoDB](https://docs.mongodb.com/) is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
 
 ## Installation
 
@@ -58,16 +63,8 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - Gabriele Silva
+- Linkedin - [https://linkedin.com](https://www.linkedin.com/in/gabriele-santos-4b27a5163/)
 
-## License
-
-Nest is [MIT licensed](LICENSE).
